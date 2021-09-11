@@ -64,7 +64,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
-
+- [Testing 3, 2, 1](https://blog.tioye.dev/testing-3-2-1)
 <!-- BLOG:END -->
 
 ➡️ [more blog posts...][wix]

@@ -62,17 +62,6 @@
 
 ➡️ [more blog posts...][wix]
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 ### :zap: GitHub Stats
 
   <img align="left" alt="CodenificienT GitHub Stats" src="https://github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />

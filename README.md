@@ -87,7 +87,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenificient&langs_count=8)](https://github.com/codenificient?tab=repositories)
 
 [website]: https://tioye.dev/index.html
-[blog]: https://codeniblog.herokuapp.com/
+[blog]: https://blog.tioye.dev/
 [wix]: https://siechristian.wixsite.com/koutoura
 [twitter]: https://twitter.com/codenificient
 [youtube]: https://www.youtube.com/channel/UCYLf_XlxrHykEpoUW0vgZJw

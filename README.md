@@ -81,7 +81,7 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="CodenificienT GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img align="left" alt="CodenificienT GitHub Stats" src="github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenificient&langs_count=8)](https://github.com/codenificient?tab=repositories)

@@ -78,12 +78,11 @@
 
 </details>
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="CodenificienT GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
 
-</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenificient&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 

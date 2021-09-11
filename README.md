@@ -1,11 +1,11 @@
-## Hello, my name is Christian - aka [CodenificienT][website]
+# Hello, my name is Christian - aka [CodenificienT][website]
 
 [![Website](https://img.shields.io/website?label=tioye.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tioye.dev/index.html)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codenificient?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodenificient&screen_name=CodenificienT)
 
 ## I'm a Graduate Student, Entrepreneur, Software Engineer, and Lifelong Learner!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
 - 🌱 I’m currently learning Spring Boot for my Software Engineering class
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -82,7 +82,7 @@
 
 [website]: https://tioye.dev/index.html
 [blog]: https://codeniblog.herokuapp.com/
-[wix]: https://codeniblog.herokuapp.com/
+[wix]: https://siechristian.wixsite.com/koutoura
 [twitter]: https://twitter.com/codenificient
 [youtube]: https://www.youtube.com/channel/UCYLf_XlxrHykEpoUW0vgZJw
 [cpplist]: https://www.youtube.com/playlist?list=PL45Fj9eTlUIb-D8enJGWbbha0d86igzKL

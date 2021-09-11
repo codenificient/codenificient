@@ -49,7 +49,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [CodenificenT project - Covidash](https://www.youtube.com/watch?v=xhJ_zaqjlR4)
+- [Rapid tour of Codenificent Website and blogs](https://www.youtube.com/watch?v=lPlUagdgSqs)
+- [Visual Studio - Coding a number guessing game in C++](https://www.youtube.com/watch?v=NISeC6cs3FM)
+- [Timelapse - CodenificenT developer resume facelyft](https://www.youtube.com/watch?v=84JbDTqjuwk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

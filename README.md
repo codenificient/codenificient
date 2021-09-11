@@ -49,6 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [CodenificenT project - Covidash](https://www.youtube.com/watch?v=xhJ_zaqjlR4)
 - [Rapid tour of Codenificent Website and blogs](https://www.youtube.com/watch?v=lPlUagdgSqs)
 - [Visual Studio - Coding a number guessing game in C++](https://www.youtube.com/watch?v=NISeC6cs3FM)
@@ -78,14 +79,11 @@
 
 </details>
 
-
 ### :zap: GitHub Stats
 
-  <img align="left" alt="CodenificienT GitHub Stats" src="github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
+  <img align="left" alt="CodenificienT GitHub Stats" src="https://github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenificient&langs_count=8)](https://github.com/codenificient?tab=repositories)
-
 
 [website]: https://tioye.dev/index.html
 [blog]: https://codeniblog.herokuapp.com/

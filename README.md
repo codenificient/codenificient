@@ -1,6 +1,6 @@
 ## Hello, my name is Christian - aka [CodenificienT][website]
 
-[![Website](https://img.shields.io/website?label=tioye.dev&style=for-the-badge&url=https%3A%2F%2Ftioye.dev)]
+[![Website](https://img.shields.io/website?label=tioye.dev&style=for-the-badge&url=https%3A%2F%tioye.dev)](https://tioye.dev/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codenificient?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodenificient&screen_name=CodenificienT)
 
 ## I'm a Graduate Student, Entrepreneur, and Lifelong Learner!!

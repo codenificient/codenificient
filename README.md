@@ -63,9 +63,9 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:END -->
 
 ➡️ [more blog posts...][wix]
 

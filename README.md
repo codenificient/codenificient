@@ -1,6 +1,6 @@
 ## Hello, my name is Christian - aka [CodenificienT][website]
 
-[![Website](https://img.shields.io/website?down_color=salmon&down_message=offline&logo=google%20cloud&up_color=green&up_message=online&url=https%3A%2F%2Ftioye.dev%2Findex.html%29)](https://tioye.dev/index.html)
+[![Website](https://img.shields.io/website?label=tioye.dev&down_color=salmon&down_message=offline&logo=google%20cloud&up_color=green&up_message=online&url=https%3A%2F%2Ftioye.dev%2Findex.html%29&style=for-the-badge)](https://tioye.dev/index.html)
 <!-- [![Website](https://img.shields.io/website?label=tioye.dev&style=for-the-badge&url=https%3A%2F%tioye.dev)](https://tioye.dev/index.html)) -->
 
 

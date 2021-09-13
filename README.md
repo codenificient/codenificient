@@ -64,7 +64,7 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=3)](https://github.com/codenificient?tab=repositories)
 
@@ -75,7 +75,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=FinxterPython&theme=tokyonight)](https://github.com/codenificient/FinxterPython)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=Golang&theme=tokyonight)](https://github.com/codenificient/Golang)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=MimiShopModernAdmin&theme=tokyonight)](https://github.com/codenificient/MimiShopModernAdmin)
 
 [website]: https://tioye.dev/index.html

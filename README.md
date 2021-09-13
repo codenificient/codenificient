@@ -5,9 +5,9 @@
 
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
 - 🌱 I’m currently learning Spring Boot for my Software Engineering class
-- [<img align="left" alt="CodenificienT" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CodenificienT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CodenificienT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- I am on Twitter [<img align="left" alt="CodenificienT" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] YouTube
+[<img align="left" alt="CodenificienT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] Twitter
+[<img align="left" alt="CodenificienT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] LinkedIn
 [<img align="left" alt="CodenificienT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ### Languages and Tools:
 

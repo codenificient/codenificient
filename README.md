@@ -36,7 +36,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
-
 <br />
 
 ---
@@ -44,6 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [CodenificenT project - Covidash](https://www.youtube.com/watch?v=xhJ_zaqjlR4)
 - [Rapid tour of Codenificent Website and blogs](https://www.youtube.com/watch?v=lPlUagdgSqs)
 - [Visual Studio - Coding a number guessing game in C++](https://www.youtube.com/watch?v=NISeC6cs3FM)
@@ -56,6 +56,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+
 - [Testing 3, 2, 1](https://blog.tioye.dev/testing-3-2-1)
 <!-- BLOG:END -->
 
@@ -69,13 +70,13 @@
 
 [![CodenificienT wakatime stats](https://github-readme-stats-codenificient.vercel.app/api/wakatime?username=codenificient&layout=compact)](https://github.com/codenificient/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=covidash&theme=tokyonight)](https://github.com/codenificient/covidash)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=covidash&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=FinxterPython&theme=tokyonight)](https://github.com/codenificient/FinxterPython)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=MimiShopModernAdmin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=Golang&theme=tokyonight)](https://github.com/codenificient/Golang)
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=MimiShopModernAdmin&theme=tokyonight)](https://github.com/codenificient/MimiShopModernAdmin)
 
 [website]: https://tioye.dev/index.html
 [blog]: https://blog.tioye.dev/

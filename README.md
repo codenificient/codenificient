@@ -70,6 +70,13 @@
 [![CodenificienT wakatime stats](https://github-readme-stats-codenificient.vercel.app/api/wakatime?username=codenificient&layout=compact)](https://github.com/codenificient/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=covidash&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=MimiShopModernAdmin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 [website]: https://tioye.dev/index.html
 [blog]: https://blog.tioye.dev/
 [wix]: https://siechristian.wixsite.com/koutoura

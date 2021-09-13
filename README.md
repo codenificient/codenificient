@@ -54,7 +54,7 @@
 <img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=3&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
-[![CodenificienT wakatime stats](https://github-readme-stats-codenificient.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&languages=10)](https://github.com/codenificient/github-readme-stats)
+[![CodenificienT wakatime stats](https://github-readme-stats-codenificient.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=10)](https://github.com/codenificient/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=Academind&theme=tokyonight&desc=TypeScript%20introductory%20tutorial%20complete%20from%20Academind%20YouTube%20Channel)](https://github.com/codenificient/Academind)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenificient&repo=FinxterPython&theme=tokyonight)](https://github.com/codenificient/FinxterPython)

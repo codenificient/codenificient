@@ -5,8 +5,8 @@
 
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
 - 🌱 I’m currently learning Spring Boot for my Software Engineering class
-- I am on my [Portfolio website][website]  [YouTube][youtube]
- [Twitter][twitter]
+- I am on my [Portfolio website,][website]  [YouTube, and][youtube]
+ [Twitter, ][twitter]
 [LinkedIn][linkedin]
 
 ### Languages and Tools:

@@ -67,6 +67,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenificient&langs_count=3)](https://github.com/codenificient?tab=repositories)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=6d02ec76-aece-4eb5-8089-ca489d563c06)](https://github.com/codenificient/github-readme-stats)
+
+
 [website]: https://tioye.dev/index.html
 [blog]: https://blog.tioye.dev/
 [wix]: https://siechristian.wixsite.com/koutoura

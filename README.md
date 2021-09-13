@@ -67,7 +67,7 @@
 
 [![Top Langs](https://github-readme-stats-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=3)](https://github.com/codenificient?tab=repositories)
 
-[![CodenificienT wakatime stats](https://github-readme-stats-codenificient.vercel.app/api/wakatime?username=codenificient)](https://github.com/codenificient/github-readme-stats)
+[![CodenificienT wakatime stats](https://github-readme-stats-codenificient.vercel.app/api/wakatime?username=codenificient&layout=compact)](https://github.com/codenificient/github-readme-stats)
 
 
 [website]: https://tioye.dev/index.html

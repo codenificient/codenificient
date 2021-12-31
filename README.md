@@ -51,14 +51,14 @@
 
 <img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stats-gamma-three-95.vercel.app/api?username=codenificient&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats-gamma-three-95.vercel.app/api/top-langs/?username=codenificient&langs_count=3&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
-[![CodenificienT wakatime stats](https://github-readme-stats-gamma-three-95.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=10)](https://github.com/codenificient/github-readme-stats)
+[![Top Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=3&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
+[![CodenificienT wakatime stats](https://github-readme-stat-kappa.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=10)](https://github.com/codenificient/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats-gamma-three-95.vercel.app/api/pin/?username=codenificient&repo=Academind&theme=tokyonight)](https://github.com/codenificient/Academind)
-[![Readme Card](https://github-readme-stats-gamma-three-95.vercel.app/api/pin/?username=codenificient&repo=FinxterPython&theme=tokyonight)](https://github.com/codenificient/FinxterPython)
+[![Readme Card](https://github-readme-stat-kappa.vercel.app/api/pin/?username=codenificient&repo=Academind&theme=tokyonight)](https://github.com/codenificient/Academind)
+[![Readme Card](https://github-readme-stat-kappa.vercel.app/api/pin/?username=codenificient&repo=FinxterPython&theme=tokyonight)](https://github.com/codenificient/FinxterPython)
 
-[![Readme Card](https://github-readme-stats-gamma-three-95.vercel.app/api/pin/?username=codenificient&repo=Golang&theme=tokyonight)](https://github.com/codenificient/Golang)
-[![Readme Card](https://github-readme-stats-gamma-three-95.vercel.app/api/pin/?username=codenificient&repo=MimiShopModernAdmin&theme=tokyonight)](https://github.com/codenificient/MimiShopModernAdmin)
+[![Readme Card](https://github-readme-stat-kappa.vercel.app/api/pin/?username=codenificient&repo=Golang&theme=tokyonight)](https://github.com/codenificient/Golang)
+[![Readme Card](https://github-readme-stat-kappa.vercel.app/api/pin/?username=codenificient&repo=MimiShopModernAdmin&theme=tokyonight)](https://github.com/codenificient/MimiShopModernAdmin)
 
 [website]: https://tioye.dev/index.html
 [blog]: https://blog.tioye.dev/

@@ -4,7 +4,7 @@
 ## I'm a Graduate Student, Entrepreneur, and Lifelong Learner!!
 
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
-- 🌱 I’m currently learning Spring Boot for my Software Engineering class
+- 🌱 I’m currently learning Golang for my Distributed Systems class
 - Feel free to contact me on my [Portfolio website,][website]  [YouTube, ][youtube]
  [Twitter, and/or][twitter]
 [LinkedIn][linkedin]

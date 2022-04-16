@@ -15,7 +15,6 @@
 [<img align="left" alt="CodenificienT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="CodenificienT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="CodenificienT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CodenificienT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -77,5 +76,4 @@
 [twitter]: https://twitter.com/codenificient
 [youtube]: https://www.youtube.com/channel/UCYLf_XlxrHykEpoUW0vgZJw
 [cpplist]: https://www.youtube.com/playlist?list=PL45Fj9eTlUIb-D8enJGWbbha0d86igzKL
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/siechristian

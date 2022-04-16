@@ -8,8 +8,8 @@
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
 - 🌱 I’m currently learning Spring Boot for my Software Engineering class
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen to classical music and play the piano
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to listen to classical music and learn to play the piano
 
 ### Connect with me:
 
@@ -82,9 +82,9 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="CodenificienT GitHub Stats" src="https://github-readme-stats-codenificient.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img align="left" alt="CodenificienT GitHub Stats" src="https://github-readme-stat-kappa.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenificient&langs_count=8)](https://github.com/codenificient?tab=repositories)
+[![Top Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=8)](https://github.com/codenificient?tab=repositories)
 
 [website]: https://tioye.dev/index.html
 [blog]: https://codeniblog.herokuapp.com/

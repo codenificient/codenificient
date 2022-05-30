@@ -66,8 +66,6 @@
 [![Top Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=3&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
 [![CodenificienT wakatime stats](https://github-readme-stat-kappa.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=10)](https://github.com/codenificient/github-readme-stats)
 
-  <img align="left" alt="CodenificienT GitHub Stats" src="https://github-readme-stat-kappa.vercel.app/api?username=codenificient&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
 [![Top Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=8)](https://github.com/codenificient?tab=repositories)
 
 [website]: https://tioye.dev/index.html

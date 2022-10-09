@@ -54,6 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Redesigning my Portfolio Website Day 5 summary](https://blog.tioye.dev/redesigning-my-portfolio-website-day-5-summary)
 - [Day 2 of Demolishing my Stack of Unfinished Projects](https://blog.tioye.dev/day-2-of-demolishing-my-stack-of-unfinished-projects)
 - [Day 1 of Demolishing my Stack of Unfinished Projects](https://blog.tioye.dev/day-1-of-demolishing-my-stack-of-unfinished-projects)
 - [Testing 3, 2, 1](https://blog.tioye.dev/testing-3-2-1)

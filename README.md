@@ -54,11 +54,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [4 Redesigning my portfolio app](https://blog.tioye.dev/4-redesigning-my-portfolio-app)
+- [3 Redesigning my portfolio app](https://blog.tioye.dev/3-redesigning-my-portfolio-app)
 - [2 Redesigning my Portfolio website](https://blog.tioye.dev/2-redesigning-my-portfolio-website)
 - [1 Redesigning my Portfolio Website](https://blog.tioye.dev/1-redesigning-my-portfolio-website)
 - [Day 2 of Demolishing my Stack of Unfinished Projects](https://blog.tioye.dev/day-2-of-demolishing-my-stack-of-unfinished-projects)
-- [Day 1 of Demolishing my Stack of Unfinished Projects](https://blog.tioye.dev/day-1-of-demolishing-my-stack-of-unfinished-projects)
-- [Testing 3, 2, 1](https://blog.tioye.dev/testing-3-2-1)
 <!-- BLOG:END -->
 
 ➡️ [more blog posts...][blog]

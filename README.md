@@ -4,7 +4,7 @@
 ## I'm a Graduate Student, Entrepreneur, and Lifelong Learner!!
 
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
-- 🌱 I’m currently learning Spring Boot for my Software Engineering class
+- 🌱 I’m currently upgrading my portfolio website to NextJS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to classical music and learn to play the piano

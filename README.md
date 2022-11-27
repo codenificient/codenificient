@@ -6,7 +6,7 @@
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
 - 🌱 I’m currently upgrading my portfolio website to NextJS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Complete a Software Engineering Internship
 - ⚡ Fun fact: I love to listen to classical music and learn to play the piano
 
 ### Connect with me:

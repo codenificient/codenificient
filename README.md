@@ -75,7 +75,7 @@
 
 [![Top Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=10)](https://github.com/codenificient?tab=repositories)
 
-[website]: https://tioye.dev/index.html
+[website]: https://tioye.dev/
 [blog]: https://blog.tioye.dev/
 [wix]: https://siechristian.wixsite.com/koutoura
 [twitter]: https://twitter.com/codenificient

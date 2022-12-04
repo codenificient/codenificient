@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [8 Redesigning my portfolio app](https://blog.tioye.dev/8-redesigning-my-portfolio-app)
 - [7 Redesigning my portfolio app](https://blog.tioye.dev/7-redesigning-my-portfolio-app)
 - [6 Redesigning my portfolio app](https://blog.tioye.dev/6-redesigning-my-portfolio-app)
 - [5 Redesigning my portfolio app](https://blog.tioye.dev/5-redesigning-my-portfolio-app)
 - [4 Redesigning my portfolio app](https://blog.tioye.dev/4-redesigning-my-portfolio-app)
-- [3 Redesigning my portfolio app](https://blog.tioye.dev/3-redesigning-my-portfolio-app)
 <!-- BLOG:END -->
 
 ➡️ [more blog posts...][blog]

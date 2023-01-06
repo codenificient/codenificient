@@ -4,9 +4,9 @@
 ## I'm a Graduate Student, Entrepreneur, and Lifelong Learner!!
 
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
-- 🌱 I’m currently upgrading my portfolio website to NextJS
+- 🌱 I’m currently upgrading my landmark project FasoLara to TypeScript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Complete a Software Engineering Internship
+- 🥅 2023 Goals: Graduate from my Master's program, land a full time job
 - ⚡ Fun fact: I love to listen to classical music and learn to play the piano
 
 ### Connect with me:

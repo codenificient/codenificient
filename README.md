@@ -50,11 +50,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [1 Startup Series: Connecting my Admin frontend to the backend](https://blog.tioye.dev/1-startup-series-connecting-my-admin-frontend-to-the-backend)
 - [9 Redesigning my portfolio app](https://blog.tioye.dev/9-redesigning-my-portfolio-app)
 - [8 Redesigning my portfolio app](https://blog.tioye.dev/8-redesigning-my-portfolio-app)
 - [7 Redesigning my portfolio app](https://blog.tioye.dev/7-redesigning-my-portfolio-app)
 - [6 Redesigning my portfolio app](https://blog.tioye.dev/6-redesigning-my-portfolio-app)
-- [5 Redesigning my portfolio app](https://blog.tioye.dev/5-redesigning-my-portfolio-app)
 <!-- BLOG:END -->
 
 ➡️ [more blog posts...][blog]

@@ -50,11 +50,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [10 Redesigning my portfolio app](https://blog.tioye.dev/10-redesigning-my-portfolio-app)
-- [1 Startup Series: Connecting my Admin frontend to the backend](https://blog.tioye.dev/1-startup-series-connecting-my-admin-frontend-to-the-backend)
-- [9 Redesigning my portfolio app](https://blog.tioye.dev/9-redesigning-my-portfolio-app)
-- [8 Redesigning my portfolio app](https://blog.tioye.dev/8-redesigning-my-portfolio-app)
-- [7 Redesigning my portfolio app](https://blog.tioye.dev/7-redesigning-my-portfolio-app)
+- [10 Redesigning my portfolio app](https://codenificient.hashnode.dev/10-redesigning-my-portfolio-app)
+- [1 Startup Series: Connecting my Admin frontend to the backend](https://codenificient.hashnode.dev/1-startup-series-connecting-my-admin-frontend-to-the-backend)
+- [9 Redesigning my portfolio app](https://codenificient.hashnode.dev/9-redesigning-my-portfolio-app)
+- [8 Redesigning my portfolio app](https://codenificient.hashnode.dev/8-redesigning-my-portfolio-app)
+- [7 Redesigning my portfolio app](https://codenificient.hashnode.dev/7-redesigning-my-portfolio-app)
 <!-- BLOG:END -->
 
 ➡️ [more blog posts...][blog]

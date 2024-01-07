@@ -6,7 +6,7 @@
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
 - 🌱 I’m currently preparing for job interviews and AWS certification
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Graduate from my Master's program, ✅ DONE
+- 🥅 2023 Goals: Graduate from my Master's program ✅ DONE
 - 🥅 2024 Goals: Land a full time job
 - ⚡ Fun fact: I love to listen to classical music and learn to play the piano
 

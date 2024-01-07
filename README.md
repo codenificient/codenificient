@@ -1,12 +1,13 @@
 ## Hello, my name is Christian - aka [CodenificienT][website]
 [![Website](https://img.shields.io/website?label=tioye.dev&down_color=salmon&down_message=offline&logo=google%20cloud&up_color=green&up_message=online&url=https%3A%2F%2Ftioye.dev&style=for-the-badge)](https://tioye.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codenificient?color=salmon&logo=twitter&logoColor=salmon&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodenificient&screen_name=CodenificienT)
-## I'm a Graduate Student, Entrepreneur, and Lifelong Learner!!
+## I'm a Web Developer, Entrepreneur, and Lifelong Learner!!
 
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
-- 🌱 I’m currently building my a Next.JS startup for my Capstone Project for MSCS graduation
+- 🌱 I’m currently preparing for job interviews and AWS certification
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Graduate from my Master's program, land a full time job
+- 🥅 2023 Goals: Graduate from my Master's program, ✅ DONE
+- 🥅 2024 Goals: Land a full time job
 - ⚡ Fun fact: I love to listen to classical music and learn to play the piano
 
 ### Connect with me:

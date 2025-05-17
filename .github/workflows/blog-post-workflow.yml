@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in django blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/keepalive-workflow@master
         with:
           comment_tag_name: "BLOG"
           feed_list: "https://blog.tioye.dev/rss.xml"

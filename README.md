@@ -62,6 +62,7 @@
 ➡️ [more blog posts...][blog]
 
 ### :zap: GitHub Stats
+<!--START_SECTION:waka-->
 
 <img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stat-kappa.vercel.app/api?username=codenificient&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
@@ -70,7 +71,7 @@
 [![CodenificienT wakatime stats](https://github-readme-stat-kappa.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=12)](https://github.com/codenificient/github-readme-stats)
 
 [![Top 10 Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=10)](https://github.com/codenificient?tab=repositories)
-
+<!--END_SECTION:waka-->
 [website]: https://tioye.dev/
 [blog]: https://blog.tioye.dev/
 [wix]: https://siechristian.wixsite.com/koutoura

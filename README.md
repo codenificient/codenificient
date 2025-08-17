@@ -64,13 +64,14 @@
 ### :zap: GitHub Stats
 <!--START_SECTION:waka-->
 
-<img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stat-kappa.vercel.app/api?username=codenificient&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+```txt
+Other        40 hrs 39 mins  ██████████████████████▒░░   89.34 %
+TypeScript   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Python       1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JSON         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
 
-[![Top 5 Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=5&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
-
-[![CodenificienT wakatime stats](https://github-readme-stat-kappa.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=12)](https://github.com/codenificient/github-readme-stats)
-
-[![Top 10 Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=10)](https://github.com/codenificient?tab=repositories)
 <!--END_SECTION:waka-->
 [website]: https://tioye.dev/
 [blog]: https://blog.tioye.dev/

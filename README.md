@@ -1,6 +1,6 @@
 ## Hello, my name is Christian - aka [CodenificienT][website]
 [![Website](https://img.shields.io/website?label=tioye.dev&down_color=salmon&down_message=offline&logo=google%20cloud&up_color=green&up_message=online&url=https%3A%2F%2Ftioye.dev&style=for-the-badge)](https://tioye.dev)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/codenificient)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/codenificient?color=salmon&logo=twitter&logoColor=salmon&style=for-the-badge)
 
 ## I'm a Web Developer, Entrepreneur, and Lifelong Learner!!
 

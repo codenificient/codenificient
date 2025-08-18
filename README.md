@@ -52,13 +52,9 @@
 ➡️ [more videos...][youtube]
 ### 📕 Latest Blog Posts
 
-<!-- BLOG:START -->
-- [13 Redesigning my Portfolio Website](https://codenificient.hashnode.dev/13-redesigning-my-portfolio-website)
-- [12 Redesigning my portfolio website](https://codenificient.hashnode.dev/12-redesigning-my-portfolio-website)
-- [My world in 2023](https://codenificient.hashnode.dev/my-world-in-2023)
-- [11 Redesigning my portfolio website](https://codenificient.hashnode.dev/11-redesigning-my-portfolio-website)
-- [10 Redesigning my portfolio app](https://codenificient.hashnode.dev/10-redesigning-my-portfolio-app)
-<!-- BLOG:END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
 

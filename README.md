@@ -65,7 +65,7 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stat-kappa.vercel.app/api?username=codenificient&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codenificient&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 [![Top 5 Langs](https://github-readme-stat-kappa.vercel.app/api/top-langs/?username=codenificient&langs_count=5&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
 

@@ -53,11 +53,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 of Demolishing My Stack of Unfinished Projects: The AI-Assisted Development Revolution](https://hashnode.com/day-5-of-demolishing-my-stack-of-unfinished-projects-the-ai-assisted-development-revolution) _(Published: 2025-08-28)_
-- [The Aspiring AI Engineer: Educative Learning Path](https://hashnode.com/the-aspiring-ai-engineer-educative-learning-path) _(Published: 2025-08-28)_
-- [Day 4 of Demolishing my Stack of Unfinished Projects: Secret Chat](https://hashnode.com/day-4-of-demolishing-my-stack-of-unfinished-projects-secret-chat) _(Published: 2025-08-21)_
-- [Day 3 of Demolishing my Stack of Unfinished Projects: SmartNotes Project](https://hashnode.com/day-3-of-demolishing-my-stack-of-unfinished-projects-smartnotes-project) _(Published: 2025-08-19)_
-- [16 Redesigning my Portfolio Website](https://hashnode.com/16-redesigning-my-portfolio-website) _(Published: 2025-08-19)_
+- [Day 5 of Demolishing My Stack of Unfinished Projects: The AI-Assisted Development Revolution](https://codenificient.hashnode.dev/day-5-of-demolishing-my-stack-of-unfinished-projects-the-ai-assisted-development-revolution) _(Published: 2025-08-28)_
+- [The Aspiring AI Engineer: Educative Learning Path](https://codenificient.hashnode.dev/the-aspiring-ai-engineer-educative-learning-path) _(Published: 2025-08-28)_
+- [Day 4 of Demolishing my Stack of Unfinished Projects: Secret Chat](https://codenificient.hashnode.dev/day-4-of-demolishing-my-stack-of-unfinished-projects-secret-chat) _(Published: 2025-08-21)_
+- [Day 3 of Demolishing my Stack of Unfinished Projects: SmartNotes Project](https://codenificient.hashnode.dev/day-3-of-demolishing-my-stack-of-unfinished-projects-smartnotes-project) _(Published: 2025-08-19)_
+- [16 Redesigning my Portfolio Website](https://codenificient.hashnode.dev/16-redesigning-my-portfolio-website) _(Published: 2025-08-19)_
 <!-- BLOG-POST-LIST:END -->
 
 

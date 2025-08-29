@@ -74,22 +74,6 @@
 [![Top 10 Langs](https://github-readme-stat-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=10)](https://github.com/codenificient?tab=repositories)
 
 
-<!--START_SECTION:waka-->
-
-```txt
-Other         44 hrs 49 mins  ██████████████████████▒░░   88.87 %
-JSON          2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-TypeScript    1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Dotenv        1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Markdown      43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Prisma        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Docker        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Ignore List   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
 [website]: https://tioye.dev/
 [blog]: https://blog.tioye.dev/
 [wix]: https://siechristian.wixsite.com/koutoura

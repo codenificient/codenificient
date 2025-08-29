@@ -52,7 +52,6 @@
 ➡️ [more videos...][youtube]
 ### 📕 Latest Blog Posts
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Day 5 of Demolishing My Stack of Unfinished Projects: The AI-Assisted Development Revolution](https://hashnode.com/day-5-of-demolishing-my-stack-of-unfinished-projects-the-ai-assisted-development-revolution) _(Published: 2025-08-28)_
 - [The Aspiring AI Engineer: Educative Learning Path](https://hashnode.com/the-aspiring-ai-engineer-educative-learning-path) _(Published: 2025-08-28)_

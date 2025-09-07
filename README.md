@@ -65,14 +65,13 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stat-codenificient.vercel.app/api?username=codenificient&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img align="left" width="60%" alt="CodenificienT GitHub Stats" src="https://github-readme-stat-codenificient.vercel.app/api?username=codenificient&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
 
-[![Top 4 Langs](https://github-readme-stat-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=4&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
+[![Top 4 Langs](https://github-readme-stat-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=4&theme=tokyonight&cache_seconds=86400)](https://github.com/codenificient?tab=repositories)
 
-<img align="left" width="60%" alt="CodenificienT WakaTime stats" src="https://github-readme-stat-codenificient.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=20" />
+<img align="left" width="60%" alt="CodenificienT WakaTime stats" src="https://github-readme-stat-codenificient.vercel.app/api/wakatime?username=codenificient&theme=tokyonight&langs_count=20&cache_seconds=86400" />
 
-[![Top 15 Langs](https://github-readme-stat-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=14&theme=tokyonight)](https://github.com/codenificient?tab=repositories)
-
+[![Top 15 Langs](https://github-readme-stat-codenificient.vercel.app/api/top-langs/?username=codenificient&langs_count=14&theme=tokyonight&cache_seconds=86400)](https://github.com/codenificient?tab=repositories)
 
 [website]: https://tioye.dev/
 [blog]: https://blog.tioye.dev/

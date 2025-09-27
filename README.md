@@ -10,6 +10,8 @@
 - 🎓 2023 Goals: Graduate from my Master's program ✅ DONE
 - 💼 2024 Goals: Land a full time job ✅ DONE
 - 📝 2025 Goals: Obtain two certificates 
+	- AWS Certified Cloud Practitioner ✅ DONE
+	- AWS Certified AI Practitioner
 - ⚡ Fun fact: I love to listen to classical music and learn to play the piano
 
 ### Connect with me:

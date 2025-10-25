@@ -7,10 +7,10 @@
 - 🔭 I just launched my first YouTube channel: [Très Computer Smart][youtube]!
 - 🌱 I’m currently preparing for Project Management Professional and AWS certifications
 - 👯 I’m looking to collaborate with other content creators
-- 🎓 2023 Goals: Graduate from my Master's program ✅ DONE
-- 💼 2024 Goals: Land a full time job ✅ DONE
+- 🎓 2023 Goals: Graduate from my Master's program ✅ 
+- 💼 2024 Goals: Land a full time job ✅ 
 - 📝 2025 Goals: Obtain two certificates 
-	- AWS Certified Cloud Practitioner ✅ DONE
+	- AWS Certified Cloud Practitioner ✅ 
 	- AWS Certified AI Practitioner
 - ⚡ Fun fact: I love to listen to classical music and learn to play the piano
 

@@ -1,0 +1,21 @@
+name: Latest Blog Posts
+on:
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12 PM UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts from Hashnode
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          max_post_count: 5
+          feed_list: "https://codenificient.hashnode.dev/rss.xml"
+          date_format: "yyyy-mm-dd"
+          template: "- [$title]($url) _(Published: $date)_"

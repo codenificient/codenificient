@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS AI Practitioner Certification: Goal Achieved!](https://codenificient.hashnode.dev/aws-ai-practitioner-certification-goal-achieved) _(Published: 2025-11-27)_
 - [Module 2 Complete: Mastering Python Libraries for Data Science](https://codenificient.hashnode.dev/module-2-complete-mastering-python-libraries-for-data-science) _(Published: 2025-10-11)_
 - [🎨 17 Redesigning My Portfolio Website](https://codenificient.hashnode.dev/17-redesigning-my-portfolio-website) _(Published: 2025-10-04)_
 - [🔐 My Second NPM Package is Here!](https://codenificient.hashnode.dev/my-second-npm-package-is-here) _(Published: 2025-09-30)_
 - [🎉 My First NPM Package is Live!](https://codenificient.hashnode.dev/my-first-npm-package-is-live) _(Published: 2025-09-15)_
-- [🎉 AWS Cloud Practitioner Certification Achieved!](https://codenificient.hashnode.dev/aws-cloud-practitioner-certification-achieved) _(Published: 2025-09-11)_
 <!-- BLOG-POST-LIST:END -->
 
 

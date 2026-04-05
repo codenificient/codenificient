@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Automation for Small Businesses: 2024 Guide](https://blog.tioye.dev/ai-automation-for-small-businesses-2024-guide) _(Published: 2026-04-01)_
 - [From Chaos to Command: How My AI Agent Team Migrated to Paperclip](https://blog.tioye.dev/from-chaos-to-command-how-my-ai-agent-team-migrated-to-paperclip) _(Published: 2026-03-29)_
 - [I Built My First Chrome Extension — DictAda, a Private Voice-to-Text Tool Powered by My Own GPU](https://blog.tioye.dev/i-built-my-first-chrome-extension-dictada) _(Published: 2026-03-20)_
 - [Afrotomation: How AI Turned My Project Stack into an Agency](https://blog.tioye.dev/afrotomation-how-ai-turned-my-project-stack-into-an-agency) _(Published: 2026-03-18)_
 - [The Future of Business Automation: Why AI Agents Are the New Workforce](https://blog.tioye.dev/the-future-of-business-automation-why-ai-agents-are-the-new-workforce) _(Published: 2026-03-18)_
-- [SEO Automation: How AI Gets Your Business Found on Google](https://blog.tioye.dev/seo-automation-how-ai-gets-your-business-found-on-google) _(Published: 2026-03-16)_
 <!-- BLOG-POST-LIST:END -->
 
 

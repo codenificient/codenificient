@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Automation for Small Businesses: 2024 Guide](https://codenificient.hashnode.dev/ai-automation-for-small-businesses-2024-guide) _(Published: 2026-04-01)_
+- [Three Days In: The Post-Migration Trenches of a Self-Hosted k3s Cluster](https://codenificient.hashnode.dev/three-days-in-the-post-migration-trenches-of-a-self-hosted-k3s-cluster) _(Published: 2026-04-26)_
+- [From Click-Ops to GitOps: Rebuilding the Afrotomation Fleet on k3s](https://codenificient.hashnode.dev/from-click-ops-to-gitops-rebuilding-the-afrotomation-fleet-on-k3s) _(Published: 2026-04-24)_
+- [47 Apps, One Week: Migrating the Afrotomation Fleet Off Vercel](https://codenificient.hashnode.dev/47-apps-one-week-migrating-the-afrotomation-fleet-off-vercel) _(Published: 2026-04-14)_
+- [AI Automation for Small Businesses: 2026 Guide](https://codenificient.hashnode.dev/ai-automation-for-small-businesses-2026-guide) _(Published: 2026-04-01)_
 - [From Chaos to Command: How My AI Agent Team Migrated to Paperclip](https://codenificient.hashnode.dev/from-chaos-to-command-how-my-ai-agent-team-migrated-to-paperclip) _(Published: 2026-03-29)_
-- [I Built My First Chrome Extension — DictAda, a Private Voice-to-Text Tool Powered by My Own GPU](https://codenificient.hashnode.dev/i-built-my-first-chrome-extension-dictada) _(Published: 2026-03-20)_
-- [Afrotomation: How AI Turned My Project Stack into an Agency](https://codenificient.hashnode.dev/afrotomation-how-ai-turned-my-project-stack-into-an-agency) _(Published: 2026-03-18)_
-- [The Future of Business Automation: Why AI Agents Are the New Workforce](https://codenificient.hashnode.dev/the-future-of-business-automation-why-ai-agents-are-the-new-workforce) _(Published: 2026-03-18)_
 <!-- BLOG-POST-LIST:END -->
 
 

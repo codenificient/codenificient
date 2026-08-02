@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Days In: The Post-Migration Trenches of a Self-Hosted k3s Cluster](https://codenificient.hashnode.dev/three-days-in-the-post-migration-trenches-of-a-self-hosted-k3s-cluster) _(Published: 2026-04-26)_
-- [From Click-Ops to GitOps: Rebuilding the Afrotomation Fleet on k3s](https://codenificient.hashnode.dev/from-click-ops-to-gitops-rebuilding-the-afrotomation-fleet-on-k3s) _(Published: 2026-04-24)_
-- [47 Apps, One Week: Migrating the Afrotomation Fleet Off Vercel](https://codenificient.hashnode.dev/47-apps-one-week-migrating-the-afrotomation-fleet-off-vercel) _(Published: 2026-04-14)_
-- [AI Automation for Small Businesses: 2026 Guide](https://codenificient.hashnode.dev/ai-automation-for-small-businesses-2026-guide) _(Published: 2026-04-01)_
-- [From Chaos to Command: How My AI Agent Team Migrated to Paperclip](https://codenificient.hashnode.dev/from-chaos-to-command-how-my-ai-agent-team-migrated-to-paperclip) _(Published: 2026-03-29)_
+- [The Aspiring AI Engineer: Educative Learning Path](https://dev.to/codenificient/the-aspiring-ai-engineer-educative-learning-path-1453) _(Published: 2026-07-28)_
+- [Day 4 of Demolishing my Stack of Unfinished Projects: Secret Chat](https://dev.to/codenificient/day-4-of-demolishing-my-stack-of-unfinished-projects-secret-chat-532j) _(Published: 2026-07-28)_
+- [Day 3 of Demolishing my Stack of Unfinished Projects: SmartNotes Project](https://dev.to/codenificient/day-3-of-demolishing-my-stack-of-unfinished-projects-smartnotes-project-j2f) _(Published: 2026-07-28)_
+- [16 Redesigning my Portfolio Website](https://dev.to/codenificient/16-redesigning-my-portfolio-website-1ee6) _(Published: 2026-07-28)_
+- [15 Redesigning my portfolio website](https://dev.to/codenificient/15-redesigning-my-portfolio-website-3a9j) _(Published: 2026-07-28)_
 <!-- BLOG-POST-LIST:END -->
 
 

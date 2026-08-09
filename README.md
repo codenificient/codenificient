@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Lost the Cluster: Six Weeks Dark, and the Rebuild That Followed](https://dev.to/codenificient/i-lost-the-cluster-six-weeks-dark-and-the-rebuild-that-followed-2ami) _(Published: 2026-08-02)_
 - [The Aspiring AI Engineer: Educative Learning Path](https://dev.to/codenificient/the-aspiring-ai-engineer-educative-learning-path-1453) _(Published: 2026-07-28)_
 - [Day 4 of Demolishing my Stack of Unfinished Projects: Secret Chat](https://dev.to/codenificient/day-4-of-demolishing-my-stack-of-unfinished-projects-secret-chat-532j) _(Published: 2026-07-28)_
 - [Day 3 of Demolishing my Stack of Unfinished Projects: SmartNotes Project](https://dev.to/codenificient/day-3-of-demolishing-my-stack-of-unfinished-projects-smartnotes-project-j2f) _(Published: 2026-07-28)_
 - [16 Redesigning my Portfolio Website](https://dev.to/codenificient/16-redesigning-my-portfolio-website-1ee6) _(Published: 2026-07-28)_
-- [15 Redesigning my portfolio website](https://dev.to/codenificient/15-redesigning-my-portfolio-website-3a9j) _(Published: 2026-07-28)_
 <!-- BLOG-POST-LIST:END -->
 
 
